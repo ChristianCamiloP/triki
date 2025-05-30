@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">triki</string>
+    <string name="title_activity_main">triki</string>
+    <string name="package_name">com.triki.juego</string>
+    <string name="custom_url_scheme">com.triki.juego</string>
+</resources>
